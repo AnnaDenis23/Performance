@@ -44,6 +44,29 @@
 
 ###
 
+<h3 align="left">🏆 Мои сертификаты и достижения</h3>
+
+###
+
+<ul>
+  <li>
+    <strong>🏅 Победитель в номинации "Лучшее решение инженерной задачи средствами программирования"</strong><br />
+    Конкурс <em>"Инженерная графика и трехмерное моделирование"</em>
+  </li>
+  <br />
+  <li>
+    <strong>🥉 3 место в хакатоне "Движение по городу"</strong><br />
+    Международные молодежные робототехнические соревнования <em>"Кубок РТК Высшая Лига: Новосибирск"</em>
+  </li>
+  <br />
+  <li>
+    <strong>🎯 Участие в Высшей Лиге</strong><br />
+    Международный фестиваль робототехники <em>"РобоФинист 2025"</em>
+  </li>
+</ul>
+
+###
+
 <h3 align="left">📕 Мои статьи</h3>
 
 ###
@@ -117,16 +140,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
   
-</div>
-
-###
-
-<h3 align="left">🔥 Моя статистика</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AnnaDenis23&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
